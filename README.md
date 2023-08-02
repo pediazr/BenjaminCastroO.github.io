@@ -60,6 +60,7 @@ Si estás interesado/a en Java, desarrollo web, React, Angular o simplemente qui
 
 ## Videos
 [Video sobre cómo realizar un portafolio](https://www.youtube.com/watch?v=oYBC7r5oSzk)
+[![Comprehensive Markdown Crash Course](https://img.youtube.com/vi/oYBC7r5oSzk/mqdefault.jpg)](https://www.youtube.com/watch?v=oYBC7r5oSzk "Título alternativo")
 
 ---
 
