@@ -23,10 +23,10 @@ Me apasiona colaborar con otros en proyectos interesantes. Si tienes algún proy
 ## 📈 Estadísticas de GitHub
 
 ![Tus Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=pediazr&show_icons=true&hide=issues&count_private=true)
-
+![Tus Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=benjamincastroo&show_icons=true&hide=issues&count_private=true)
 ## 🌟 Proyectos Destacados
 
- [SprintM6](https://github.com/pediazr/SprintM6)
+ [SprintM6](https://github.com/benjamincastroo/SprintM6)
 
 Este repositorio contiene la solución tecnológica desarrollada para una empresa de asesorías en prevención de riesgos laborales. El sistema ofrece una plataforma web que permite administrar y gestionar los procesos necesarios para dar cumplimiento a la normativa vigente y mejorar la prevención de riesgos en empresas de diversos rubros.
 
@@ -38,7 +38,7 @@ Este repositorio contiene la solución tecnológica desarrollada para una empres
 
 - IDE
 
-[![My Skills](https://skillicons.dev/icons?i=,vscode,idea,eclipse,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,eclipse,spring)](https://skillicons.dev)
 
 <!---## 🏆 Logros en GitHub
 
