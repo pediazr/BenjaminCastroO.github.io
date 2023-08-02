@@ -1,71 +1,66 @@
-# SprintM6
-# Prevención de Riesgos Laborales - Sistema de Gestión
+# </Pedro Díaz>
+
+
+¡Hola! 👋 Bienvenido/a a mi perfil de GitHub. Soy Pedro Díaz, un egresado del bootcamp Fullstack Java con habilidades en desarrollo web utilizando HTML, CSS, JavaScript y MySQL. También tengo experiencia con varios Entornos de Desarrollo Integrados (IDEs) como Visual Studio Code, IntelliJ y Eclipse, así como con MySQL Workbench. Estoy familiarizado con el framework Spring Boot, Bootstrap y jQuery.
+
+## 🔭 En qué estoy trabajando
+
+Actualmente, estoy trabajando en expandir mis habilidades y construir proyectos prácticos para mejorar mis capacidades como Fullstack Java. Aunque aún no he trabajado con React y Angular, soy autodidacta y estoy dispuesto a aprender estas tecnologías para complementar mis habilidades.
+
+## 🌱 Aprendizaje y Desarrollo
+
+Como egresado reciente del bootcamp, tengo muchas ganas de seguir aprendiendo y creciendo como desarrollador. Mi próximo paso es adentrarme en el mundo de React y Angular para ampliar mis conocimientos en el desarrollo frontend. Estoy emocionado por aprender nuevas tecnologías y aplicarlas en proyectos interesantes.
+
+## 👯‍♀️ Colaboremos
+
+Me apasiona colaborar con otros en proyectos interesantes. Si tienes algún proyecto relacionado con desarrollo web, Java, React o Angular, estaría encantado de contribuir y aprender en el proceso. ¡Juntos podemos construir algo genial!
+
+## 📫 Contáctame
+
+- Correo electrónico: [pedro.neox@gmail.com](mailto:pedro.neox@gmail.com)
+- LinkedIn: [Mi Perfil de LinkedIn](https://www.linkedin.com/in/pedro-d%C3%ADaz-87964973/)
+
+## 📈 Estadísticas de GitHub
+
+![Tus Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=pediazr&show_icons=true&hide=issues&count_private=true)
+
+## 🌟 Proyectos Destacados
+
+ [SprintM6](https://github.com/pediazr/SprintM6)
 
 Este repositorio contiene la solución tecnológica desarrollada para una empresa de asesorías en prevención de riesgos laborales. El sistema ofrece una plataforma web que permite administrar y gestionar los procesos necesarios para dar cumplimiento a la normativa vigente y mejorar la prevención de riesgos en empresas de diversos rubros.
 
-## Casos de Uso
+## ⚡ Skills
 
-El sistema proporciona funcionalidades para los siguientes casos de uso:
+- Lenguaje
 
-1. **Inicio:** Página de inicio de la aplicación que ofrece una visión general de los servicios y características del sistema.
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,bootstrap,mysql,java)](https://skillicons.dev)
 
-2. **Contacto:** Permite a los usuarios ponerse en contacto con la empresa para realizar consultas o solicitar información adicional.
+- IDE
 
-3. **Crear Capacitación:** Permite a los administrativos crear nuevas capacitaciones que serán ofrecidas a los clientes.
+[![My Skills](https://skillicons.dev/icons?i=,vscode,idea,eclipse,spring)](https://skillicons.dev)
 
-4. **Listar Capacitación:** Muestra un listado de todas las capacitaciones programadas y realizadas, con detalles relevantes.
+<!---## 🏆 Logros en GitHub
 
-5. **Login:** Permite a los usuarios autenticarse en el sistema para acceder a funcionalidades protegidas.
+- Menciona cualquier logro destacado relacionado con tu bootcamp, contribuciones a código abierto o proyectos personales.
 
-Además de los casos de uso iniciales, se han desarrollado las siguientes funcionalidades adicionales:
+## 📚 Artículos de Blog
 
-6. **Listado de Usuarios:** Muestra un listado completo de todos los usuarios registrados en el sistema, incluyendo clientes, profesionales y administrativos.
+Comparto mis experiencias y conocimientos relacionados con el desarrollo web y Java en mi [blog personal](https://tublog.com). Échale un vistazo para encontrar consejos útiles y tutoriales.
+--->
+## 🤝 Contribuciones y Código Abierto
 
-7. **Crear Usuario:** Permite a los administrativos crear nuevos usuarios en el sistema, incluyendo información personal y tipo de usuario.
+Creo en el poder del código abierto y he contribuido a varios proyectos. Puedes encontrar algunas de mis contribuciones [aquí](https://github.com/pediazr?tab=repositories&q=&type=source).
 
-8. **Editar Cliente:** Permite a los administrativos modificar la información de un cliente registrado en el sistema.
+## 📣 Conéctate conmigo
 
-9. **Editar Profesional:** Permite a los administrativos editar la información de un profesional registrado en el sistema.
-
-10. **Editar Administrativo:** Permite a los administradores modificar la información de un administrativo registrado en el sistema.
-
-11. **Listado de Visitas:** Muestra un listado de todas las visitas realizadas por los profesionales a las empresas clientes.
-
-12. **Responder Checklist:** Muestra un listado de todos las chequeos realizados por los profesionales en sus visitas.
-
-13. **Listado de Pago:** Muestra un listado de todos los pagos realizados por los clientes por los servicios de prevención de riesgos.
-
-14. **Crear Pago:** Permite a los administrativos registrar los pagos realizados por los clientes.
-
-## Tecnologías Utilizadas
-
-El sistema está desarrollado utilizando las siguientes tecnologías:
-
-- Java Enterprise Edition (JEE) para el desarrollo del backend.
-- HTML, CSS y JavaScript para el desarrollo del frontend.
-- Base de datos relacional (por ejemplo, MySQL) para almacenar la información del sistema.
-- Servicios RESTful para la comunicación entre el frontend y el backend.
-- Framework de desarrollo web (por ejemplo, Spring MVC) para facilitar el desarrollo y la gestión de la aplicación.
-
-## Instrucciones de Instalación y Ejecución
-
-1. Clona este repositorio en tu máquina local utilizando el comando:
-git clone
-
-2. Configura la base de datos. Asegúrate de tener un servidor de base de datos instalado y actualiza las credenciales de conexión en el archivo `application.properties`.
-
-3. Ejecuta la aplicación utilizando tu IDE de preferencia o mediante el siguiente comando:
-
-mvn spring-boot:run
-
-
-4. Accede a la aplicación en tu navegador web utilizando la URL: `http://localhost:8080`
-
-
-## Autores
-
-Este proyecto fue desarrollado por el equipo de Prevención Riesgos S.A.
+Si estás interesado/a en Java, desarrollo web, React, Angular o simplemente quieres charlar sobre tecnología, no dudes en contactarme en LinkedIn.
+¡Siempre estoy emocionado/a de conocer a otros desarrolladores!
 
 
 
+---
+
+¡Gracias por visitar mi perfil de GitHub! Estoy emocionado/a por un emocionante viaje en el desarrollo de software y hacer contribuciones significativas a la comunidad tecnológica. ¡Vamos a codificar y crear algo asombroso! 🚀
+---
 
